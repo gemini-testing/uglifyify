@@ -1,11 +1,11 @@
 {
-  "name": "uglifyify",
+  "name": "@testplane/uglifyify",
   "version": "3.0.4",
   "description": "A browserify transform which minifies your code using UglifyJS2",
   "main": "index.js",
   "dependencies": {
     "convert-source-map": "~1.1.0",
-    "extend": "^1.2.1",
+    "extend": "2.0.2",
     "minimatch": "^3.0.2",
     "through": "~2.3.4",
     "uglify-js": "2.x.x"
